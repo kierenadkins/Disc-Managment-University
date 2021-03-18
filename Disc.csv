@@ -1,0 +1,9 @@
+Title, Release date, Genre, Artist, Songs, Duration, Console, Pegi, Type
+example1, 1923, hip, kieren, 34, 345s, null, null,Music
+example2, 1923, pop, fn sn, 102, 345s, null, null,Music
+example3, 2020, heavy, taylor, 200, 140s, null, null,Music
+example4, 1874, Rock, fn sn, 567, 345s, null, null,Music
+example5, 1323, hip, fn sn, 340, 345s, null, null,Music
+call of duty, 2020, shooter, null, null, null, nintendo, 18,Game
+gta5, 2013, openworld, null, null, null, playstation, 18,Game
+minecraft, 2002, open world, null, null, null, xbox, 3,Game
